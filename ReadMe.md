@@ -2,7 +2,7 @@ This project explores the impact of WTO accession on agricultural imports using 
 
 Key methodologies include hierarchical clustering to exclude outliers, KNNMeans for cluster identification, and a rigorous regression analysis to assess the economic effects of accession. This repository contains the code, data, and scripts necessary for replication and further exploration of WTO membership's role in shaping agricultural trade.
 
-# 4 EMPIRICAL PROJECT WORKFLOW
+# EMPIRICAL PROJECT WORKFLOW
 
 This folder has 4 files :
 
